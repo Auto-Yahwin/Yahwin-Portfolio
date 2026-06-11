@@ -14,11 +14,11 @@ export default function Footer(props) {
                     
                     <a href="https://wa.me/2348101299724" target="_blank" rel="noopener noreferrer">
                         <button>{/*<FontAwesomeIcon icon={faWhatsapp} className="fa-icons" />*/}
-                            <span className="white-span">{<img src="/Images/Icons/whatsapp.png" alt="whatsapp logo" className="icon-imgs" />}</span></button>
+                            <span className="white-span">{<img src={`${import.meta.env.BASE_URL}Images/Icons/whatsapp.png`} alt="whatsapp logo" className="icon-imgs" />}</span></button>
                     </a>
                     <a href="https://www.linkedin.com/in/solomon-okon-9822431b1" target="_blank" rel="noopener noreferrer">
                         <button>{/*<FontAwesomeIcon icon={faLinkedin} />*/}
-                            {<img src="/Images/Icons/linkedin.png" alt="linkedin logo" className="icon-imgs" />}</button>
+                            {<img src={`${import.meta.env.BASE_URL}Images/Icons/linkedin.png`} alt="linkedin logo" className="icon-imgs" />}</button>
                     </a>
                     <a href="mailto:solomonyahwin@gmail.com" target="_blank" rel="noopener noreferrer">
                         <button>{<FontAwesomeIcon icon={faEnvelope} className="fa-icons" />}
