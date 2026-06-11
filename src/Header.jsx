@@ -15,13 +15,13 @@ export default function Header(props) {
                     </ul>
             </div>
             */}
-            <span className="active-status blue-p"><p>Open to opportunities - Involve me</p> <FontAwesomeIcon icon={faCircle} className="active-indicator" /></span>
+            <span className="active-status blue-p"><p>Involve me</p> <FontAwesomeIcon icon={faCircle} className="active-indicator" /></span>
             {props.darkMode ?
                 <img src={`
                     ${import.meta.env.BASE_URL}Images/Captures/moon.png`}
                     className="moon" alt="rotating moon" /> :
                 <img src={`
-                    ${import.meta.env.BASE_URL}Images/Captures/sun3.webp"`}
+                    ${import.meta.env.BASE_URL}Images/Captures/sun3.webp`}
                     className="sun" alt="sun" />}
             <img src={`
                 ${import.meta.env.BASE_URL}Images/Captures/blimp.webp`}

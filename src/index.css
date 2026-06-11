@@ -88,8 +88,8 @@ body, .text-grp>p, .about, .left-descrip>p {
 .about ul::before{
     content: '';
     position: absolute;
-    top: 25px;
-    bottom: 40px;
+    top: 10px;
+    bottom: 10px;
     left: 58px;
     width: 3px;
     /*background-color: #ddd;*/
@@ -120,7 +120,7 @@ body, .text-grp>p, .about, .left-descrip>p {
 
 @media(max-width: 46.875rem){
     .about{
-        margin: 0;
+        margin: 1rem 0;
         grid-template-columns: 1fr;
     }
 
@@ -130,7 +130,7 @@ body, .text-grp>p, .about, .left-descrip>p {
     }*/
 
   .about li{
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     margin-bottom: 15px;
     padding-left: 25px;
   }
@@ -270,7 +270,7 @@ select:focus{
 @media(max-width: 46.875rem){
     .button{
         text-align: center;
-        margin: 10px 0;
+        margin: 15px 0;
     }
 }
 
@@ -481,7 +481,7 @@ select:focus{
     }
 
     .project-cards-grid .text-grp>h1{
-        width: 190px;
+        width: 150px;
         text-wrap: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -560,7 +560,7 @@ h5{
 }
 
 .left-descrip h1{
-    margin: 0;
+    margin-left: 0;
 }
 
 .left-descrip h2{
@@ -595,7 +595,7 @@ a{
   }
 
   h1{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   h5{
@@ -606,30 +606,35 @@ a{
     font-size: 0.8rem;
   }
 
+  .left-descrip h1{
+    margin: 1rem 0;
+  }
+
   .left-descrip h2{
-    margin: 0.2rem 0 0.2rem 0;
-    font-size: 1.2rem;
+    margin: 0.2rem 0 0.5rem 0;
+    font-size: 1.35rem;
   }
 
   .left-descrip h3{
-    margin: 0.2rem 0 0.2rem 0;
-    font-size: 0.85rem;
+    margin: 0.2rem 0 0.4rem 0;
+    font-size: 0.95rem;
     }
 
     .left-descrip p{
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     margin: 0;
   }
 
   .right-descrip p{
-    font-size: 0.55rem;
+    font-size: 0.6rem;
+    margin-top: 10px;
   }
 
   .about-paragraph>p{
-    line-height: 0.8rem;
+    line-height: 1rem;
     padding: 0 1rem;
     text-align: center;
-    margin: 1rem 0;
+    margin: 1.2rem 0;
   }
 
   .project-cards-grid .text-grp>p{
@@ -680,7 +685,7 @@ a{
 
 @media(max-width: 46.875rem){
   .active-status>p{
-    font-size: 0.6rem;
+    font-size: 0.8rem;
   }
 
   .active-indicator{
@@ -1115,7 +1120,7 @@ form>p{
         transform: translateY(0%);
     }
     to{
-        transform: translateY(-850%);
+        transform: translateY(-1100%);
     }
 }
 
@@ -1177,7 +1182,7 @@ form>p{
 
     .sun{
         width: 5rem;
-        top: 15%;
+        top: 0;
         left: -20%;
         animation: sunShine 13.5s linear infinite;
     }
@@ -1226,17 +1231,17 @@ form>p{
 
 @media(max-width: 46.875rem){
     nav>h1{
-        font-size: 0.8rem;
+        font-size: 1rem;
         margin: 0.3rem 0;
         /*width: fit-content;*/
     }
 
     .nav-btn-grp{
-        margin-bottom: 0.3rem;
+        margin: 0.5rem 0;
     }
 
     .nav-btn-grp button, .control-btns button, select{
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     }
 }
 
