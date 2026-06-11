@@ -1,0 +1,19 @@
+Lightmode
+white header and header-nav  hsl(0, 0%, 100)
+background grey  hsl(206, 23%, 94) hsl(228, 17%, 94)
+green overlay  hsl(137, 54, 90) hsl(142, 68, 88) hsl(142, 64, 92) (preferred)
+green text hsl(135, 22, 61) hsl(138, 18, 52) (preferred)
+black  hsl(138, 18, 52)
+list container gry  hsl(220, 14%, 96%)
+list items card  hsl(0, 0%, 98%)
+
+darkmode
+main overlay dark hsl(0, 0%, 9%)
+header and header-nav dark hsl(0, 0, 13)
+list container grey  hsl(0, 0, 17)
+list items cards hsl(0, 0, 21)
+
+green overlay  hsl(152, 32, 18)
+green text  hsl(155, 59, 19)  hsl(154, 36, 31)
+white text  hsl(0, 0, 83)  hsl(0, 0, 100)
+

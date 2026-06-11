@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Mortgage Repayment Calculator",
+        "images": {
+            "desktop1": "Images/Captures/mortgage desktop empty.jpg",
+            "desktop2": "Images/Captures/mortgage desktop result.jpg",
+            "mobile1": "Images/Captures/mortgage mobile empty1.jpg",
+            "mobile2": "Images/Captures/mortgage mobile empty2.jpg"
+        },
+        "tools": ["HTML", "CSS", "JavaScript", "React"],
+        "category": ["React Forms", "Controlled Inputs", "vite"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Mortgage-Repayment-Calculator",
+        "live": "https://auto-yahwin.github.io/Mortgage-Repayment-Calculator/"
+    },
+    {
+        "name": "Product List with Cart",
+        "images": {
+            "desktop1": "Images/Captures/product list desktop empty.jpg",
+            "desktop2": "Images/Captures/product list desktop selected.jpg",
+            "mobile1": "Images/Captures/product list mobile selected1.jpg",
+            "mobile2": "Images/Captures/product list mobile selected2.jpg",
+            "mobile3": "Images/Captures/product list mobile selected3.jpg"
+        },
+        "tools": ["HTML", "CSS", "JavaScript", "React"],
+        "category": ["React Components", "React Props", "vite"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Product-List-Cart",
+        "live": "https://auto-yahwin.github.io/Product-List-Cart/"
+    },
+
+    {
+        "name": "Result Summary Component",
+        "images": {
+            "desktop1": "Images/Captures/result summary desktop.jpg",
+            "desktop2": "",
+            "mobile1": "Images/Captures/summary page mobile1.jpg",
+            "mobile2": ""
+        },
+        "tools": ["HTML", "CSS", "JavaScript", "React"],
+        "category": ["Basic React Components", "vite"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Result-Summary-Component",
+        "live": "https://auto-yahwin.github.io/Result-Summary-Component/"
+    },
+
+    {
+        "name": "Ijagun Portfolio Page",
+        "images": {
+            "desktop1": "Images/Captures/Ijagun desktop1.jpg",
+            "desktop2": "Images/Captures/Ijagun desktop2.jpg",
+            "mobile1": "Images/Captures/Ijagun mobile1.jpg",
+            "mobile2": "Images/Captures/Ijagun mobile2.jpg"
+        },
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "category": ["Codebase Understanding"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Ijagun-Portfolio",
+        "live": "https://auto-yahwin.github.io/Ijagun-Portfolio/"
+    },
+
+    {
+        "name": "Birthday Gift Page",
+        "images": {
+            "desktop1": "Images/Captures/birthday desktop1.jpg",
+            "desktop2": "",
+            "mobile1": "Images/Captures/birthday mobile1.jpg",
+            "mobile2": "Images/Captures/birthday mobile2.jpg"
+        },
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "category": ["Codebase Understanding", "Scaling"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Birthday-Page",
+        "live": "https://auto-yahwin.github.io/Birthday-Page/"
+    },
+
+    {
+        "name": "React Facts Component",
+        "images": {
+            "desktop1": "Images/Captures/react facts desktop1.jpg",
+            "desktop2": "Images/Captures/react facts desktop1.jpg",
+            "mobile1": "Images/Captures/react facts mobile1.jpg",
+            "mobile2": "Images/Captures/react facts mobile2.jpg"
+        },
+        "tools": ["HTML", "CSS", "JavaScript", "React"],
+        "category": ["React Components", "CRA"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/React-Facts",
+        "live": "https://auto-yahwin.github.io/React-Facts/"
+    },
+
+    {
+        "name": "Business Card",
+        "images": {
+            "desktop1": "Images/Captures/business desktop1.jpg",
+            "desktop2": "",
+            "mobile1": "Images/Captures/business mobile1.jpg",
+            "mobile2": "Images/Captures/business mobile2.jpg"
+        },
+        "tools": ["HTML", "CSS", "React"],
+        "category": ["CRA", "React Components"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Business-Card",
+        "live": "https://auto-yahwin.github.io/Business-Card/"
+    },
+
+    {
+        "name": "Air BnB Clone",
+        "images": {
+            "desktop1": "Images/Captures/airbnb desktop1.jpg",
+            "desktop2": "Images/Captures/airbnb desktop.jpg",
+            "mobile1": "Images/Captures/airbnb mobile1.jpg",
+            "mobile2": "Images/Captures/airbnb mobile2.jpg"
+        },
+        "tools": ["HTML", "CSS", "React"],
+        "category": ["CRA", "React Components"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/airbnb-clone",
+        "live": "https://auto-yahwin.github.io/airbnb-clone/"
+    },
+
+    {
+        "name": "Random Meme Generator",
+        "images": {
+            "desktop1": "Images/Captures/meme generator desktop.jpg",
+            "desktop2": "",
+            "mobile1": "Images/Captures/meme generator mobile.jpg",
+            "mobile2": ""
+        },
+        "tools": ["HTML", "CSS", "JavaScript", "React"],
+        "category": ["CRA", "React Components", "React States"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/random-meme-generator",
+        "live": "https://auto-yahwin.github.io/random-meme-generator/"
+    },
+
+    {
+        "name": "Tenzies",
+        "images": {
+            "desktop1": "Images/Captures/tenzies desktop1.jpg",
+            "desktop2": "Images/Captures/tenzies desktop2.jpg",
+            "mobile1": "Images/Captures/tenzies mobile1.jpg",
+            "mobile2": "Images/Captures/tenzies mobile2.jpg"
+        },
+        "tools": ["HTML", "CSS", "JavaScript", "React"],
+        "category": ["CRA", "React Components", "React States"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Tenzies",
+        "live": "https://auto-yahwin.github.io/Tenzies/"
+    },
+
+    {
+        "name": "Ceaser Cypher",
+        "images": {
+            "desktop1": "Images/Captures/ceaser cypher desktop.jpg",
+            "desktop2": "",
+            "mobile1": "Images/Captures/ceaser cypher mobile.jpg",
+            "mobile2": ""
+        },
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "category": ["JavaCStipt event listener", "functional programming"],
+        "description": "",
+        "repo": "https://github.com/Auto-Yahwin/Ceaser-Cypher",
+        "live": "https://auto-yahwin.github.io/Ceaser-Cypher/"
+    }
+]

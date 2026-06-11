@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Aeroplane",
+        "images": {
+            "front": "Portfolio_Solomon Yahwin/Aeroplane/__Front view.JPG",
+            "side": "Portfolio_Solomon Yahwin/Aeroplane/__Side view.JPG",
+            "top": "Portfolio_Solomon Yahwin/Aeroplane/__Top view.JPG",
+            "iso": "Portfolio_Solomon Yahwin/Aeroplane/__Iso view.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling", "Material Assignment", "Apearance"],
+        "description": ""
+    },
+
+    {
+        "name": "Pelletizer",
+        "images": {
+            "front": "Images/Captures/pelletizer front view.jpg",
+            "side": "Images/Captures/pelletizer right.jpg",
+            "top": "Images/Captures/pelletizer top.jpg",
+            "iso": "Images/Captures/pelletizer iso.jpg"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling", "Material Assignment", "Mates", "Assembly", "Motion Study"],
+        "description": ""
+    },
+
+    {
+        "name": "Bottle Cover",
+        "images": {
+            "front": "",
+            "side": "",
+            "top": "",
+            "iso": "Portfolio_Solomon Yahwin/Bottle cover/bottle cover.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling"],
+        "description": ""
+    },
+
+    {
+        "name": "Bridge Bracket",
+        "images": {
+            "front": "",
+            "side": "",
+            "top": "",
+            "iso": "Portfolio_Solomon Yahwin/Bridge bracket/Bridge bracket.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["Orthoghraphic Interpretation", "2D sketching", "3D modelling"],
+        "description": ""
+    },
+
+    {
+        "name": "Cam-follower Assembly",
+        "images": {
+            "front": "Portfolio_Solomon Yahwin/Cam-follower assembly/__Front view.JPG",
+            "side": "Portfolio_Solomon Yahwin/Cam-follower assembly/__Side view.JPG",
+            "top": "",
+            "iso": "Portfolio_Solomon Yahwin/Cam-follower assembly/__Iso view.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling", "Mates", "Assembly"],
+        "description": ""
+    },
+
+    {
+        "name": "Connecting Rod Assembly",
+        "images": {
+            "front": "Portfolio_Solomon Yahwin/Connecting rod assembly/image2.jpg",
+            "side": "Portfolio_Solomon Yahwin/Connecting rod assembly/image4.jpg",
+            "top": "Portfolio_Solomon Yahwin/Connecting rod assembly/image3.jpg",
+            "iso": "Portfolio_Solomon Yahwin/Connecting rod assembly/image1.jpg"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling", "Assembly drawing", "Material Assignment", "Bill of Specimen", "Exploded Views"],
+        "description": ""
+    },
+
+    {
+        "name": "Flow Junction",
+        "images": {
+            "front": "",
+            "side": "",
+            "top": "",
+            "iso": "Portfolio_Solomon Yahwin/Flow junction/Flow junction.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling"],
+        "description": ""
+    },
+
+    {
+        "name": "Four Seater Aircraft",
+        "images": {
+            "front": "Portfolio_Solomon Yahwin/Four-seater aircraft/Assem.JPG",
+            "side": "Portfolio_Solomon Yahwin/Four-seater aircraft/Assem with both engine sets.JPG",
+            "top": "",
+            "iso": "Portfolio_Solomon Yahwin/Four-seater aircraft/Assem.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling", "Mates", "Assembly"],
+        "description": ""
+    },
+
+    {
+        "name": "Karet Tail UAV",
+        "images": {
+            "front": "Portfolio_Solomon Yahwin/Karet tail UAV/__Front view.JPG",
+            "side": "",
+            "top": "Portfolio_Solomon Yahwin.Karet tail UAV/_Top view.pdf",
+            "iso": "Portfolio_Solomon Yahwin/Karet tail UAV/__Iso view.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["2D sketching", "3D modelling", "Surface tools"],
+        "description": ""
+    },
+
+    {
+        "name": "Piston-Connecting Rod Assembly",
+        "images": {
+            "front": "Portfolio_Solomon Yahwin/Piston-connecting rod assembly/__Front view.JPG",
+            "side": "Portfolio_Solomon Yahwin/Piston-connecting rod assembly/__Left view.JPG",
+            "top": "",
+            "iso": "Portfolio_Solomon Yahwin/Piston-connecting rod assembly/__Iso.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["Mates", "Assembly drawing", "Motion Study"],
+        "description": ""
+    },
+
+    {
+        "name": "T-Bracket",
+        "images": {
+            "front": "",
+            "side": "",
+            "top": "",
+            "iso": "Portfolio_Solomon Yahwin/T bracket/T bracket.JPG"
+        },
+        "tools": ["SolidWork"],
+        "category": ["Orthoghraphic Interpretation", "2D sketching", "3D modelling"],
+        "description": ""
+    }
+]
